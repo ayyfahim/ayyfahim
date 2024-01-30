@@ -1,4 +1,4 @@
-## Welcome to my Profile ![Profile views](https://gpvc.arturio.dev/ayyfahim)  
+## Welcome to my Profile !
 ![Full Stack Web Developer](https://raw.githubusercontent.com/ayyfahim/ayyfahim/main/profile_banner.png)
 
 My name is SI FAHIM. I am a Full Stack Web Developer. Reach me: ayyfahim@gmail.com
