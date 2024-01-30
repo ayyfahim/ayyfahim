@@ -1,7 +1,7 @@
-## Welcome to my Profile !
+## Welcome to my Profile!
 ![Full Stack Web Developer](https://raw.githubusercontent.com/ayyfahim/ayyfahim/main/profile_banner.png)
 
-My name is SI FAHIM. I am a Full Stack Web Developer. Reach me: ayyfahim@gmail.com
+My name is SI FAHIM. I am a Software Engineer. Reach me: sifahim.techcruder@gmail.com
 
 <p align="left">
 <a href="https://twitter.com/ayyfahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayyfahim" height="30" width="40" /></a>
